@@ -1,5 +1,5 @@
 # A Comparison of Single Image SuperResolution Algorithms for Cardiac MRI Scans
-My Master's Thesis comparing the relative merits of applying SRGAN and VDSR approaches to the SISR problem in LR MRI slice upsampling. It involves relatively modified versions of the original SRGAN tensorflow project which can be found on Github, and Matlab's VDSR implementation available on the MathWorks website to tailor them to this specific use-case. It should be noted that this research was not undertaken for financial gain and the final paper wasn't published in a scientific journal. 
+My Master's Thesis comparing the relative merits of applying SRGAN and VDSR approaches to the SISR problem in LR MRI slice upsampling. It involves relatively modified versions of the original SRGAN tensorflow project which can be found on Github, and Matlab's VDSR implementation using its Deep Learning Toolbox (available on the MathWorks website) both tailored to this specific use-case. It should be noted that this research was not undertaken for financial gain and the final paper wasn't published in a scientific journal. 
 
 The final paper can be read [here](./USHER_Frank_FYPReport.pdf).
 
